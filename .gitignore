@@ -1,9 +1,11 @@
+# my test files
+test.py
+development/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
-test.py
 
 # C extensions
 *.so
