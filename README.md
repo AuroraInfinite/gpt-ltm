@@ -25,6 +25,7 @@ ___
 * Upload the package to PyPI: `python -m twine upload --repository testpypi dist/*`
 * Enter **username** and **password**
 * Uninstall using `pip uninstall gpt-ltm`
+* Install from testpypi using `pip install -i https://test.pypi.org/simple/ gpt-ltm`
 
 <br/><br/>
 ___
