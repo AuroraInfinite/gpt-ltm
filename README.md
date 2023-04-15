@@ -1,5 +1,5 @@
 ___
-
+# THIS IS A PLACEHOLDER REPOSITORY FOR MY GPT LONG TERM MEMORY LIBRARY
 # Prerequisites
 Before running this project, you need to setup the following:
 
@@ -26,6 +26,12 @@ ___
 * Enter **username** and **password**
 * Uninstall using `pip uninstall gpt-ltm`
 * Install from testpypi using `pip install -i https://test.pypi.org/simple/ gpt-ltm`
+* Test the functions using the [test.py](test.py) file
+* Upload the package to PyPI: `python -m twine upload dist/*`
+* Enter **username** and **password**
+* Uninstall using `pip uninstall gpt-ltm`
+* Install from pypi using `pip install gpt-ltm`
+* Test the functions using the [test.py](test.py) file
 
 <br/><br/>
 ___
