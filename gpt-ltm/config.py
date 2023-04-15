@@ -1,0 +1,14 @@
+COMPLETIONS_MODEL = "text-davinci-003"
+EMBEDDINGS_MODEL = "text-embedding-ada-002"
+CHAT_MODEL = 'gpt-3.5-turbo'
+TEXT_EMBEDDING_CHUNK_SIZE = 300
+VECTOR_FIELD_NAME = 'content_vector'
+PREFIX = "docs"
+INDEX_NAME = "f1-index"
+TEMPERATURE = 0.1
+VECTOR_DIM = 1536
+DISTANCE_METRIC = "COSINE"
+REDIS_HOST = "localhost"
+REDIS_PORT = 6379
+OPENAI_API_KEY = None
+
